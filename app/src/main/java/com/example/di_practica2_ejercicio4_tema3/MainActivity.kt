@@ -30,6 +30,7 @@ class MainActivity : AppCompatActivity() {
         recView.layoutManager = LinearLayoutManager(this, LinearLayoutManager.VERTICAL, false)
 
         adaptador.onClick = {
+            Toast.makeText(this,"Click",Toast.LENGTH_SHORT).show()
         }
     }
 }

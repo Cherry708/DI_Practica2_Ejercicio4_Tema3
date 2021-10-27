@@ -1,4 +1,5 @@
 <resources>
+
     <string name="app_name">Coffee Shops</string>
 
     <string name="cafe0">Antico Caffe Greco</string>
@@ -16,6 +17,5 @@
     <string name="subtitulo4">St. Picadilly Circus, London</string>
     <string name="subtitulo5">St. Angel Guimera, Valencia</string>
     <string name="subtitulo6">St. Kinkerstraat, Amsterdam</string>
-
 
 </resources>
